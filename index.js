@@ -1,5 +1,5 @@
 let typed = new Typed('.typing-effect-span', {
-  strings: ['a Filipino', 'a Shopify Developer.', 'a Shopify Expert.'],
+  strings: ['a Shopify Developer.', 'a Shopify Expert.'],
   typeSpeed: 100,
   backSpeed: 60,
   loop: true,
