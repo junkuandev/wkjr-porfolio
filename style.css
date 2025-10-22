@@ -32,7 +32,9 @@ h3 {
   color: #fff;
   
 }
-
+p.project-description.left-text {
+    text-align: left !important;
+}
 /* Header */
 
 header {
